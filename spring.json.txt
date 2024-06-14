@@ -1,0 +1,21 @@
+POST _bulk
+{ "index" : { "_index" : "spring", "_id" : "1" } }
+{"message":"The quick brown fox"}
+{ "index" : { "_index" : "spring", "_id" : "2" } }
+{"message":"The quick brown fox jumps over the lazy dog"}
+{ "index" : { "_index" : "spring", "_id" : "3" } }
+{"message":"The quick brown fox jumps over the quick dog"}
+{ "index" : { "_index" : "spring", "_id" : "4" } }
+{"message":"Brown fox brown dog"}
+{ "index" : { "_index" : "spring", "_id" : "5" } }
+{"message":"Lazy jumping dog"}
+{ "index" : { "_index" : "spring", "_id" : "6" } }
+{"message":"지붕 위의 갈색 닭"}
+{ "index" : { "_index" : "spring", "_id" : "7" } }
+{"message":"지붕 위의 갈색 닭 그리고 밑에 검은색 강아지"}
+{ "index" : { "_index" : "spring", "_id" : "8" } }
+{"message":"지붕 위의 갈색 우는 닭 그리고 밑에 갈색 게으른 강아지"}
+{ "index" : { "_index" : "spring", "_id" : "9" } }
+{"message":"갈색 게으른 바보 강아지 옆에 빨간색 닭"}
+{ "index" : { "_index" : "spring", "_id" : "10" } }
+{"message":"졸고 있는 갈색 강아지"}

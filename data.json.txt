@@ -1,0 +1,23 @@
+POST phones/_bulk
+{"index":{"_id":1}}
+{"model":"Samsung GalaxyS 5","price":475,"date":"2014-02-24"}
+{"index":{"_id":2}}
+{"model":"Samsung GalaxyS 6","price":795,"date":"2015-03-15"}
+{"index":{"_id":3}}
+{"model":"Samsung GalaxyS 7","price":859,"date":"2016-02-21"}
+{"index":{"_id":4}}
+{"model":"Samsung GalaxyS 8","price":959,"date":"2017-03-29"}
+{"index":{"_id":5}}
+{"model":"Samsung GalaxyS 9","price":1059,"date":"2018-02-25"}
+
+POST notes/_bulk
+{"index":{"_id":1}}
+{"model":"무지노트","price":1000,"date":"2023-01-15"}
+{"index":{"_id":2}}
+{"model":"줄노트","price":1500,"date":"2023-02-20"}
+{"index":{"_id":3}}
+{"model":"오답노트","price":2000,"date":"2023-03-05"}
+{"index":{"_id":4}}
+{"model":"캐릭터노트","price":2500,"date":"2023-03-31"}
+{"index":{"_id":5}}
+{"model":"양장노트","price":3000,"date":"2023-04-10"}

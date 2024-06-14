@@ -1,0 +1,16 @@
+{ "index" : { "_index" : "member", "_type" : "_doc", "_id" : "1" } }
+{"name" : "가가가", "age": 20, "gender": "m"}
+{ "index" : { "_index" : "member", "_type" : "_doc", "_id" : "2" } }
+{"name" : "나나나", "age": 20, "gender": "f"}
+{ "index" : { "_index" : "member", "_type" : "_doc", "_id" : "3" } }
+{"name" : "다다다", "age": 22, "gender": "m"}
+{ "index" : { "_index" : "member", "_type" : "_doc", "_id" : "4" } }
+{"name" : "라라라", "age": 24, "gender": "m"}
+{ "index" : { "_index" : "member", "_type" : "_doc", "_id" : "5" } }
+{"name" : "마마마", "age": 20, "gender": "m"}
+{ "index" : { "_index" : "member", "_type" : "_doc", "_id" : "6" } }
+{"name" : "바바바", "age": 20, "gender": "f"}
+{ "index" : { "_index" : "member", "_type" : "_doc", "_id" : "7" } }
+{"name" : "사사사", "age": 22, "gender": "m"}
+{ "index" : { "_index" : "member", "_type" : "_doc", "_id" : "8" } }
+{"name" : "아아아", "age": 24, "gender": "m"}

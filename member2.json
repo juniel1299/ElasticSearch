@@ -1,0 +1,21 @@
+POST member/_bulk
+{ "index" : { "_index" : "member", "_type" : "_doc", "_id" : 1 } }
+{ "name" : "홍길동", "age": 22, "gender": "m", "address": "서울시 강남구 역삼동", "height": 170, "weight": 70}
+{ "index" : { "_index" : "member", "_type" : "_doc", "_id" : 2 } }
+{ "name" : "아무개", "age": 25, "gender": "m", "address": "서울시 강남구 대치동", "height": 175, "weight": 65}
+{ "index" : { "_index" : "member", "_type" : "_doc", "_id" : 3 } }
+{ "name" : "테스트", "age": 30, "gender": "m", "address": "서울시 강남구 압구정동", "height": 180, "weight": 77}
+{ "index" : { "_index" : "member", "_type" : "_doc", "_id" : 4 } }
+{ "name" : "강호동", "age": 45, "gender": "m", "address": "서울시 강남구 청담동", "height": 184, "weight": 95}
+{ "index" : { "_index" : "member", "_type" : "_doc", "_id" : 5 } }
+{ "name" : "유재석", "age": 40, "gender": "m", "address": "서울시 강남구 신사동", "height": 178, "weight": 62}
+{ "index" : { "_index" : "member", "_type" : "_doc", "_id" : 6 } }
+{ "name" : "김종민", "age": 33, "gender": "m", "address": "서울시 강동구 명일동", "height": 176, "weight": 68}
+{ "index" : { "_index" : "member", "_type" : "_doc", "_id" : 7 } }
+{ "name" : "박나래", "age": 27, "gender": "f", "address": "서울시 강동구 고덕동", "height": 152, "weight": 53}
+{ "index" : { "_index" : "member", "_type" : "_doc", "_id" : 8 } }
+{ "name" : "조세호", "age": 32, "gender": "m", "address": "서울시 강동구 천호동", "height": 158, "weight": 66}
+{ "index" : { "_index" : "member", "_type" : "_doc", "_id" : 9 } }
+{ "name" : "이광수", "age": 37, "gender": "m", "address": "서울시 강서구 등촌동", "height": 192, "weight": 78}
+{ "index" : { "_index" : "member", "_type" : "_doc", "_id" : 10 } }
+{ "name" : "장도연", "age": 28, "gender": "f", "address": "서울시 강서구 가양동", "height": 179, "weight": 71}
